@@ -1,5 +1,6 @@
 import React from 'react';
 import ParentComponent from './Parent';
+import './App.css';
 
 function App() {
   return (
