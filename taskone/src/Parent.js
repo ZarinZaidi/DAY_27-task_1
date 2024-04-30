@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ChildComponent from './ChildComponent';
+import ChildComponent from './Child';
 
 function ParentComponent() {
     // 5.State to manage the text entered by the user.
