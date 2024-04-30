@@ -21,5 +21,4 @@ function ChildComponent({ text }) {
     );
 }
 
-// 9.Implement the logic to pass the text from ParentComponent to ChildComponent.
 export default ChildComponent;
